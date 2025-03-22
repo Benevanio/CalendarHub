@@ -6,8 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "calendar","hub","node","express","mongoose","fullcalendar", "ejs","dotenv"
+  ],
+  "author": "benevanio",
   "license": "ISC",
   "description": "",
   "dependencies": {
